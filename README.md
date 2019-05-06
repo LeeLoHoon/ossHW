@@ -1,6 +1,7 @@
 1.apt-get [option] 에 대하여 알아보자
 ===
-### apt-get update : 패키지 인덱스의 인덱스 정보를 업데이트하는 기능을 수행
+apt-get update : 패키지 인덱스의 인덱스 정보를 업데이트하는 기능을 수행
+### 
 ###이 인덱스는 /etc/apt/sources.list에 있음
 ![3](https://user-images.githubusercontent.com/49421109/57212234-0ebb5a80-701e-11e9-8f69-05d107d6973e.JPG)
 ### apt-get upgrade : 설치되어 있는 패키지를 모두 새버전으로 업그레이드 수행
