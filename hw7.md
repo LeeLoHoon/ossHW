@@ -5,6 +5,7 @@
 첫번째 해야 할 일은 /var/www/html에 주어져 있던 권한을 각각의 유저의 home 디렉터리에 있는 html이라는 디렉터리로 권한을 주는 일을 해야한다.
 ##
 ![1](https://user-images.githubusercontent.com/49421109/57582375-04f29500-74ff-11e9-81b2-18b16a5b6f66.JPG)
+
 두번째 해야 할 일은 두개의 유저를 만들고 그안에 html이라는 디렉터리 그리고 그 안에 index.html 파일을 만드는 것이다.
 ##
 ![8](https://user-images.githubusercontent.com/49421109/57582466-230cc500-7500-11e9-98b4-cebbc6ece997.JPG)
